@@ -10,5 +10,6 @@
   },
   "scripts": {
     "start": "electron ."
-  }
+  },
+  "dependencies": {}
 }
