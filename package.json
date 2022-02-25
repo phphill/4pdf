@@ -1,7 +1,7 @@
 {
   "name": "4pdf",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "main.ts",
   "repository": "https://github.com/phphill/4pdf.git",
   "author": "Phillip Phill <philliprich@gmail.com>",
   "license": "SEE LICENSE IN <./LICENSE>",
