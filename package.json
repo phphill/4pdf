@@ -1,12 +1,12 @@
 {
   "name": "4pdf",
   "version": "1.0.0",
-  "main": "main.ts",
+  "main": "main.js",
   "repository": "https://github.com/phphill/4pdf.git",
   "author": "Phillip Phill <philliprich@gmail.com>",
   "license": "SEE LICENSE IN <./LICENSE>",
   "devDependencies": {
-    "electron": "^17.1.0"
+    "electron": "17.1.0"
   },
   "scripts": {
     "start": "electron ."
